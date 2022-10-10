@@ -10,9 +10,7 @@ This is a repository for the first laboratory in software developments tools. <b
 - Отсутствие мусорных файлов (a.k.a. нормальный файл `.gitignore`);
 - Настройка GitHub Pages для автоматического деплоя работы.
 
-**Technological description** 
+**Technological description** <br>
 | Language | Mark |
-
-| -----|------|
-
+|------|------|
 | Solidity | .sol |
