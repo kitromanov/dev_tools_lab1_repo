@@ -1,5 +1,5 @@
 # dev_tools_lab1_repo
-This is a repository for the first laboratory in software developments tools.
+This is a repository for the first laboratory in software developments tools. <br>
 **Repository requirements:**
 - Оформленный файл README (нормальная вёрстка с использованием разметки Markdown);
 - Семантическое именование коммитов ([https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716](https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716));
