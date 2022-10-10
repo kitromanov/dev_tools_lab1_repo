@@ -9,3 +9,10 @@ This is a repository for the first laboratory in software developments tools. <b
 - Использование стандартизированной модели ветвления (предпочтительно GitHub flow, можно Gitflow);
 - Отсутствие мусорных файлов (a.k.a. нормальный файл `.gitignore`);
 - Настройка GitHub Pages для автоматического деплоя работы.
+
+**Technological description** 
+| Language | Mark |
+
+| -----|------|
+
+| Solidity | .sol |
